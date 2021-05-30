@@ -1,7 +1,7 @@
 # AnimSimulatorWindow
 
 Hello, thanks to download my animation Simulator window!
-The window is still in work in progress because it need more reflection to support all types of blend tree.
+The window is still in work in progress because it need more reflection to support all types of blend tree.  
 But you can :  
 -Select an Animator in the scene  
 -Select an Animation or a blend tree in the animator  
